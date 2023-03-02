@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Tweet;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
-
+// controller
 class LikeController extends Controller
 {
     //
